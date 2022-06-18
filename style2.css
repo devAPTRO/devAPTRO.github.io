@@ -1,0 +1,30 @@
+h1
+{
+	color: blue;
+}
+
+h1
+{
+	font-family: "Arial", Times, sans-serif;
+
+}
+
+.p
+{
+	font-family: "Arial", Times, sans-serif;
+
+}
+
+body
+{
+	background-color: purple;
+}
+
+#downloadd
+{
+	width: 800px;
+	margin:0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+}

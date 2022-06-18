@@ -1,0 +1,30 @@
+h1
+{
+	color: purple;
+
+}
+
+h2
+{
+	color: red;
+}
+
+h3
+{
+	color: blue;
+	
+}
+
+body
+{
+	background-color: orange;
+}
+
+#content
+{
+	width: 800px;
+	margin:0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+}
